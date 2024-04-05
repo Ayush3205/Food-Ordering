@@ -22,5 +22,5 @@ export default function MenuScreen() {
       columnWrapperStyle={{ gap: 10 }}
     />
   );
-}
+} 
 
